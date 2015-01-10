@@ -1,0 +1,22 @@
+{
+  "name": "debounced-seeker",
+  "version": "1.0.0",
+  "description": "small utility function to move a cursor back and forward and trigger a callback after some time of inactivity.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xat/debounced-seeker/"
+  },
+  "keywords": [
+    "seek"
+  ],
+  "author": "Simon Kusterer",
+  "license": "MIT",
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^2.1.0"
+  }
+}
